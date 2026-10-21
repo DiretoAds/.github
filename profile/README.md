@@ -1,15 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:2563eb&height=200&section=header&text=DiretoAds&fontColor=ffffff&fontSize=66&fontAlignY=38&desc=Ag%C3%AAncia%20de%20tr%C3%A1fego%20pago%20%C2%B7%20Direct%20response&descAlignY=60&descSize=18" alt="DiretoAds" />
+  <img src="https://raw.githubusercontent.com/DiretoAds/.github/main/profile/trafego.svg?v=1" alt="DiretoAds — agência de tráfego pago e direct response" width="900" />
 </p>
 
 <p align="center">
   <a href="https://diretoads.vercel.app/"><b>Site</b></a> &nbsp;·&nbsp;
   <a href="https://diretopay.netlify.app/"><b>DiretoPay</b></a> &nbsp;·&nbsp;
   <a href="https://diretotrack.vercel.app/"><b>DiretoTrack</b></a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=760&height=45&lines=Tr%C3%A1fego+pago+focado+em+venda.;Direct+response%2C+do+clique+%C3%A0+convers%C3%A3o.;Receba.+Rastreie.+Escale." alt="Tráfego pago focado em venda" />
 </p>
 
 ---
@@ -50,8 +46,4 @@ Liga **cada venda ao anúncio que a gerou** e mostra a performance por campanha 
 <p align="center">
   <b><a href="https://diretoads.vercel.app/">diretoads.vercel.app</a></b><br>
   <sub>Tráfego pago, direct response e tecnologia própria — tudo direto.</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1e3a8a&height=120&section=footer" alt="" />
 </p>
