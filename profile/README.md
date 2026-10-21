@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DiretoAds/.github/main/profile/trafego.svg?v=1" alt="DiretoAds — agência de tráfego pago e direct response" width="900" />
+  <img src="https://raw.githubusercontent.com/DiretoAds/.github/main/profile/trafego.svg?v=2" alt="DiretoAds — agência de tráfego pago e direct response" width="900" />
 </p>
 
 <p align="center">
